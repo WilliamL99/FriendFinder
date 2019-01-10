@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/WilliamL99/FriendFinder#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "xpress": "^2.4.6"
   }
 }
